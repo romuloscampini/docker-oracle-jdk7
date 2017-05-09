@@ -1,2 +1,3 @@
-# docker-oracle-jdk7
-Imagem Docker com JDK 7 da Oracle
+# Projetos Docker
+### Projeto: docker-oracle-jdk7
+Projeto para criação de imagem Docker com JDK 7 da Oracle
